@@ -6,15 +6,13 @@ I chose to leave every possible file in a subfolder to keep my home dir as clean
 
 ## NOTE <!-- omit in toc -->
 
-```html
-I've made a copy of this repsitory that uses [Oh My Zsh](https://ohmyz.sh/) for two reasons.
-
-- Mac is using Z shell as the deafult as off macOS Catalina.
-- Oh My Zsh has many awesome features.
-
-I will not update this repository as long as I'm happy using the other one. Here you can find my new repository:
-[https://github.com/MGHollander/zsh-dotfiles](https://github.com/MGHollander/zsh-dotfiles)
-```
+> I've made a copy of this repsitory that uses [Oh My Zsh](https://ohmyz.sh/) for two reasons.
+>
+> - Mac is using Z shell as the deafult as off macOS Catalina.
+> - Oh My Zsh has many awesome features.
+>
+> I will not update this repository as long as I'm happy using the other one. Here you can find my new repository:
+> [https://github.com/MGHollander/zsh-dotfiles](https://github.com/MGHollander/zsh-dotfiles)
 
 ## Table of content <!-- omit in toc -->
 
