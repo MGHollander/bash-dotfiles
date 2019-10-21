@@ -28,7 +28,7 @@ I will not update this repository as long as I'm happy using the other one. Here
 
 ## Installation
 
-Run `git clone git@gitlab.com:MGHollander/bash-dotfiles.git dotfiles` in the root of your user directory.
+Run `git clone git@github.com:MGHollander/bash-dotfiles.git dotfiles` in the root of your user directory.
 
 Add to `~/.bashrc` or `~/.bash_profile`:
 
