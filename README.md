@@ -2,6 +2,8 @@
 
 Heavily stripped version of [Mathias’s dotfiles](https://github.com/mathiasbynens/dotfiles).
 
+![Screenshot of my shell prompt](screenshot.png)
+
 I chose to leave every possible file in a subfolder to keep my home dir as clean as possible and keep my own custom files separate from the other files.
 
 ## NOTE <!-- omit in toc -->
